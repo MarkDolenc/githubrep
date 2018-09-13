@@ -1,0 +1,7 @@
+C:\Users\markdol\source\repos\WebApplication2\bin\Debug\WebApplication2.Views.dll
+C:\Users\markdol\source\repos\WebApplication2\bin\Debug\WebApplication2.Views.pdb
+C:\Users\markdol\source\repos\WebApplication2\bin\Debug\WebApplication2.dll
+C:\Users\markdol\source\repos\WebApplication2\bin\Debug\WebApplication2.pdb
+C:\Users\markdol\source\repos\WebApplication2\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\markdol\source\repos\WebApplication2\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\markdol\source\repos\WebApplication2\obj\Debug\docker-compose.dcproj.CopyComplete
